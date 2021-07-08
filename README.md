@@ -9,4 +9,12 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Adding deployment details
+
 ###How to contribute
+
+## Conclusion
+
+This is the conclusion text
+
+
