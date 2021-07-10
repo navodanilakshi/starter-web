@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 Adding deployment details
 
 ###How to contribute
-
+Please do
 ## Conclusion
 
 This is the conclusion text
