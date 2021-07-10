@@ -7,6 +7,8 @@ Added by Navoda.
 
 Sample website with plenty of files for demos
 
+Adding a line for rebase demo
+
 ## Deployment
 
 Adding deployment details
